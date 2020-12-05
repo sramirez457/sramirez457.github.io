@@ -1,4 +1,6 @@
-## Welcome to GitHub Pages
+## Welcome to Shelby Ramirez's ePortfolio
+
+My experience in Computer Science during my time at SNHU has been both fun and informative. 
 
 You can use the [editor on GitHub](https://github.com/sramirez457/sramirez457.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
 
