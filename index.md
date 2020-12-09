@@ -1,6 +1,7 @@
 # Welcome to Shelby Ramirez's ePortfolio
-
+```
 My experience in Computer Science during my time at SNHU has been both fun and informative. 
+```
 
 You can use the [editor on GitHub](https://github.com/sramirez457/sramirez457.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
 
@@ -10,17 +11,18 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 
 I gained the following skills throughout my coursework at SNHU:
 
-```markdown
-
 - Programming with Python, C++, and Java languages
 - 3D annimation rendering in Eclipse with OpenGL
 - IT equipment identification and troubleshooting
 
-```
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
 ## Computer Science 499 Course Outcomes
+```
+Outcomes are ...
+```
+
 ### Collaborating in a Team Environment
 Employ strategies for building environments that enable diverse audiences to support organizational decision making in the field of computer science. 
 
