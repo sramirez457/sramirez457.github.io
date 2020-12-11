@@ -24,20 +24,22 @@ Outcomes are ...
 ```
 
 ### Collaborating in a Team Environment
-Employ strategies for building environments that enable diverse audiences to support organizational decision making in the field of computer science. 
+*Employ strategies for building environments that enable diverse audiences to support organizational decision making in the field of computer science.*
 
 Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/sramirez457/sramirez457.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
 ### Communicating to Stakeholders
-Design, develop, and deliver professional-quality oral, written, and visual communications that are coherent, technically sound, and appropriately adapted to specific audiences and contexts.
+*Design, develop, and deliver professional-quality oral, written, and visual communications that are coherent, technically sound, and appropriately adapted to specific audiences and contexts.*
+
+In my SNHU courses, I have developed a professional manner of communicating through speaking, writing, and visual demonstrations. I learned to talk in detail about coding, structures, databases, and IT setups. A good demonstration of my speaking skills are in my code review for my capstone course, found [here](https://www.youtube.com/watch?v=SbeO9yoMm24&feature=youtu.be). Additionally, this code review also demonstrates my code writing abilities that are user-friendly to read. Finally, my code review also highlights my ability to organize a coherent presentation of information. 
 
 ### Data Structures and Algorithms
-Design and evaluate computing solutions that solve a given problem using algorithmic principles and computer science practices and standards appropriate to its solution, while managing the trade-offs involved in design choices. 
+*Design and evaluate computing solutions that solve a given problem using algorithmic principles and computer science practices and standards appropriate to its solution, while managing the trade-offs involved in design choices.*
 
 ### Software Engineering and Database
-Demonstrate an ability to use well-founded and innovative techniques, skills, and tools in computing practices for the purpose of implementing computer solutions that deliver value and accomplish industry-specific goals. 
+*Demonstrate an ability to use well-founded and innovative techniques, skills, and tools in computing practices for the purpose of implementing computer solutions that deliver value and accomplish industry-specific goals.* 
 
 ### Security
-Develop a security mindset that anticipates adversarial exploits in software architecture and designs to expose potential vulnerabilities, mitigate design flaws, and ensure privacy and enhanced security of data and resources. 
+*Develop a security mindset that anticipates adversarial exploits in software architecture and designs to expose potential vulnerabilities, mitigate design flaws, and ensure privacy and enhanced security of data and resources.*
 
 Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
