@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "Collaborating in a Team Environment"
-theme: midnight
+theme: default
 permalink: /collaboration/
 ---
 
