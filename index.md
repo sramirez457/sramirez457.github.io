@@ -1,7 +1,9 @@
 # Welcome to Shelby Ramirez's ePortfolio
 ```
-The time I spent working in the Computer Science program has been incredibly educational. 
-Prior to my coursework at SNHU, I had only dabbled in computers or computer programs throughout my previous college coursework and professional life.  
+The time I spent working in the Computer Science program has been incredibly
+educational. Prior to my coursework at SNHU, I had only dabbled in computers
+or computer programs throughout my previous college coursework and professional 
+life.  
 ```
 
 You can use the [editor on GitHub](https://github.com/sramirez457/sramirez457.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
