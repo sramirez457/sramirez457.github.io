@@ -21,6 +21,8 @@ I gained the following skills throughout my coursework at SNHU:
 Outcomes are ...
 ```
 
+[Collaborating in a Team Environment](https://github.com/sramirez457/sramirez457.github.io/blob/main/Collaborating%20in%20a%20Team%20Environment)
+
 ### Collaborating in a Team Environment
 **_Employ strategies for building environments that enable diverse audiences to support organizational decision making in the field of computer science._**
 
