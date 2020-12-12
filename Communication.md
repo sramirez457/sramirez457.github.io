@@ -1,7 +1,7 @@
 ---
 layout: default
 title: "Communicating to Stakeholders"
-permalink: "communication"
+permalink: /communication/
 ---
 
 ## Communicating to Stakeholders
