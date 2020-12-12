@@ -35,7 +35,7 @@ The following course outcomes display my mastery of various important Computer S
 
 [Software Engineering and Database](https://sramirez457.github.io/software/)
 
-[Security](https://sramirez457.github.io/software/)
+[Security](https://sramirez457.github.io/security/)
 
 ### Collaborating in a Team Environment
 **_Employ strategies for building environments that enable diverse audiences to support organizational decision making in the field of computer science._**
