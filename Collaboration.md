@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: default
 title: "Collaborating in a Team Environment"
 permalink: /collaboration/
 ---
