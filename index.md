@@ -29,6 +29,14 @@ The following course outcomes display my mastery of various important Computer S
 
 [Collaborating in a Team Environment](https://sramirez457.github.io/collaboration/)
 
+[Communicating to Stakeholders](https://sramirez457.github.io/communication/)
+
+[Data Structures and Algorithms](https://sramirez457.github.io/data/)
+
+[Software Engineering and Database](https://sramirez457.github.io/software/)
+
+[Security](https://sramirez457.github.io/software/)
+
 ### Collaborating in a Team Environment
 **_Employ strategies for building environments that enable diverse audiences to support organizational decision making in the field of computer science._**
 Code development in working environments requires team collaboration and supporting constructive code reviews. My capstone course exemplified one method of collaboration, known as GitHub. 
