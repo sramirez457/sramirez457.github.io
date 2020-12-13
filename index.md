@@ -1,6 +1,5 @@
-<img width="1013" alt="Computer Science" src="https://user-images.githubusercontent.com/73710194/102018028-36ad8c80-3d30-11eb-9f8e-f19e5be7053e.png">
 
-# Welcome to Shelby Ramirez's ePortfolio
+# Shelby Ramirez's ePortfolio
 ```
 The time I spent working in the Computer Science program has been incredibly
 educational. Prior to my coursework at SNHU, I had only dabbled in computers
@@ -17,11 +16,10 @@ I gained the following skills throughout my coursework at SNHU:
 - 3D annimation rendering in Eclipse with OpenGL
 - IT equipment installation and troubleshooting
 - Navigation of operating systems including Windows, macOS, and Linux
-- etc
-- etc
-- etc
-- etc
-- etc
+- Understanding software development roles and phases of devleopment
+- Use MongoDB and mySQL to create, read, update, and delete databases and data within in them
+- Develop approriate and effective hardware and software security setups for small companies
+- Design and execute a Chrome F12 application that interacts with a Web SQL Database
 
 
 ## Computer Science 499 Course Outcomes
