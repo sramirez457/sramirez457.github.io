@@ -1,3 +1,5 @@
+<img width="1013" alt="Computer Science" src="https://user-images.githubusercontent.com/73710194/102018028-36ad8c80-3d30-11eb-9f8e-f19e5be7053e.png">
+
 # Welcome to Shelby Ramirez's ePortfolio
 ```
 The time I spent working in the Computer Science program has been incredibly
