@@ -2,6 +2,7 @@
 # Shelby Ramirez's ePortfolio
 <img width="1009" alt="Code" src="https://user-images.githubusercontent.com/73710194/102019148-5bf1c900-3d37-11eb-85c1-cd0fd4dfd16d.png">
 
+
 The time I spent working in the Computer Science program has been incredibly
 educational. Prior to my coursework at SNHU, I had only dabbled in computers
 or computer programs throughout my previous college coursework and professional 
@@ -23,8 +24,7 @@ I gained the following skills throughout my coursework at SNHU:
 
 
 ## Computer Science 499 Course Outcomes
-The following course outcomes display my mastery of various important Computer Science skills. 
-
+The following course outcomes display my mastery of various important Computer Science skills: 
 
 [Collaborating in a Team Environment](https://sramirez457.github.io/collaboration/)
 
