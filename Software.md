@@ -40,6 +40,10 @@ While working on these enhancements, I realized that a concept may not work as w
 | --- |
 | <img width="609" alt="Profit Index" src="https://user-images.githubusercontent.com/73710194/102024523-1a254a80-3d58-11eb-934e-7ff0e96f7091.png"> |
 
-| Original stockReport | Enhanced stockReport |
-| --- | --- |
-| <img width="667" alt="Original stockReport" src="https://user-images.githubusercontent.com/73710194/102022912-7f287280-3d4f-11eb-8d90-bcb1004f4dc7.png"> | <img width="575" alt="New stockReport" src="https://user-images.githubusercontent.com/73710194/102022915-82236300-3d4f-11eb-9ef7-04ed94c4aec3.png"> |
+| Original stockReport | 
+| --- | 
+| <img width="667" alt="Original stockReport" src="https://user-images.githubusercontent.com/73710194/102022912-7f287280-3d4f-11eb-8d90-bcb1004f4dc7.png"> | 
+
+| Enhanced stockReport | 
+| --- |
+| <img width="575" alt="New stockReport" src="https://user-images.githubusercontent.com/73710194/102022915-82236300-3d4f-11eb-9ef7-04ed94c4aec3.png"> |
