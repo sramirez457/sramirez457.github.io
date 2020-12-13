@@ -15,10 +15,10 @@ permalink: /data/
 I selected this artifact because the original code I submitted was effective in performing the required functions, but it lacked efficiency. Additionally, the updated code I created allows for user input, rather than the user having to change the file each time a new search parameter is needed. Also, there are less lines of code, so it has become a more efficient data structure. By making these changes, I met my course objectives for data structures and algorithms. Upon reflection, I found the process of developing these codes to be challenging and educational.
 
 | Original 50-Day Simple Moving Average | Enhanced 50-Day Simple Moving Average |
-| --- | --- |
+| :---: | :---: |
 |<img width="558" alt="Original 50" src="https://user-images.githubusercontent.com/73710194/102022905-75067400-3d4f-11eb-96e1-09540ae235bc.png"> | <img width="673" alt="New 50" src="https://user-images.githubusercontent.com/73710194/102022899-6d46cf80-3d4f-11eb-9f00-7f01887b9d93.png"> |
 
 | Original Industry | Enhanced Industry |
-| --- | --- |
+| :---: | :---: |
 |<img width="558" alt="Original Industry" src="https://user-images.githubusercontent.com/73710194/102022909-7afc5500-3d4f-11eb-9177-201c5e04afc0.png"> | <img width="673" alt="New Industry" src="https://user-images.githubusercontent.com/73710194/102022908-7899fb00-3d4f-11eb-9947-8bcc7dcf33b3.png"> |
 
