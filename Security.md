@@ -15,6 +15,9 @@ Security is a paramount concern in today's computer science world. In each of my
 - Provide physical protection of work stations, IT closets, and other vital hardware to prevent security breaches. 
 - Encourage best practices by users when accessing company networks, business/personal emails, installing software/programs, and using the internet in general. 
 
+<p align="center">
+  <img width="460" alt="Security" src="https://user-images.githubusercontent.com/73710194/102028883-d6d7d580-3d71-11eb-9b72-7ba37da84258.png">
+</p>
 
 
 
