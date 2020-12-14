@@ -14,7 +14,7 @@ I selected this item because it is a good representation of something unique tha
    
 During my enhancement process, I realized that I had not utilized a majority of the skills I had acquired during my CS330 coursework. Since it was only two semesters ago that I developed this code, I had not had the opportunity to create any additional 3D rendering since. Taking this into account, I had to look up a couple of details that I had forgotten. For example, I had to look up the color combinations when changing the background. I also had to look up what “normals” associated with my vertices meant and how to determine their values. I also had to get back into the mindset of creating a 3D image on paper and assigning points on the x, y, and z planes. Furthermore, I have not used C++ or OpenGL since this course either. I think that this a challenge I have faced before since our coursework is diverse and includes different languages applied in various ways. Apart from these small challenges, I think that my Enhancement One was successful in improving my artifact. 
 
-See complete Stool code [here](https://sramirez457.github.io/software/stool/)
+See complete Enhanced Stool code [here](https://sramirez457.github.io/software/stool/).
 
 | Original Stool | Enhanced Stool |
 | --- | ---|
