@@ -2,6 +2,7 @@
 layout: default
 title: "Stool"
 permalink: /software/stool/
+---
 
 
 /*Header Inclusions*/
