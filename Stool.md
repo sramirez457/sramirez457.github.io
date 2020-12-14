@@ -4,6 +4,7 @@ title: "Stool"
 permalink: /software/stool/
 ---
 
+[software](https://sramirez457.github.io/software/)
 
 /*Header Inclusions*/
 #include <iostream>
@@ -892,4 +893,7 @@ void UMouseMove(int x, int y)
 }
 
 
+
+
+[software](https://sramirez457.github.io/software/)
 
