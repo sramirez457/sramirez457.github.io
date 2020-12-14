@@ -3,6 +3,7 @@ layout: default
 title: "Collaborating in a Team Environment"
 permalink: /collaboration/
 ---
+[home](https://sramirez457.github.io/)
 
 ## Collaborating in a Team Environment
 **_Employ strategies for building environments that enable diverse audiences to support organizational decision making in the field of computer science._**
@@ -16,3 +17,5 @@ Code development in professional environments requires team collaboration and co
 - Providing transparency in the creation of projects and enable input in decision making 
 
 <img width="1229" alt="GitHub" src="https://user-images.githubusercontent.com/73710194/102020661-4a60ef00-3d40-11eb-9976-aee42f492449.png">
+
+[home](https://sramirez457.github.io/)
