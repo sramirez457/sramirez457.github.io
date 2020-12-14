@@ -3,6 +3,8 @@ layout: default
 title: "Data Structures & Algorithms"
 permalink: /data/
 ---
+[home](https://sramirez457.github.io/)
+
 
 ## Data Structures and Algorithms
 **_Design and evaluate computing solutions that solve a given problem using algorithmic principles and computer science practices and standards appropriate to its solution, while managing the trade-offs involved in design choices._**
@@ -21,4 +23,8 @@ I selected this artifact because the original code I submitted was *effective* i
 | Original Industry | Enhanced Industry |
 | :---: | :---: |
 |<img width="558" alt="Original Industry" src="https://user-images.githubusercontent.com/73710194/102022909-7afc5500-3d4f-11eb-9177-201c5e04afc0.png"> | <img width="673" alt="New Industry" src="https://user-images.githubusercontent.com/73710194/102022908-7899fb00-3d4f-11eb-9947-8bcc7dcf33b3.png"> |
+
+
+
+[home](https://sramirez457.github.io/)
 
