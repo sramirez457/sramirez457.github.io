@@ -3,6 +3,8 @@ layout: default
 title: "Software Engineering & Database"
 permalink: /software/
 ---
+[home](https://sramirez457.github.io/)
+
 
 ## Software Engineering and Database
 **_Demonstrate an ability to use well-founded and innovative techniques, skills, and tools in computing practices for the purpose of implementing computer solutions that deliver value and accomplish industry-specific goals._**
@@ -49,3 +51,7 @@ While working on these enhancements, I realized that a concept may not work as w
 | Enhanced stockReport | 
 | --- |
 | <img width="575" alt="New stockReport" src="https://user-images.githubusercontent.com/73710194/102022915-82236300-3d4f-11eb-9ef7-04ed94c4aec3.png"> |
+
+
+
+[home](https://sramirez457.github.io/)
