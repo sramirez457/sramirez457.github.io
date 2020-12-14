@@ -3,6 +3,8 @@ layout: default
 title: "Security"
 permalink: /security/
 ---
+[home](https://sramirez457.github.io/)
+
 
 ## Security
 **_Develop a security mindset that anticipates adversarial exploits in software architecture and designs to expose potential vulnerabilities, mitigate design flaws, and ensure privacy and enhanced security of data and resources._**
@@ -12,3 +14,8 @@ Security is a paramount concern in today's computer science world. In each of my
 - Take necessary precautions to prevent unauthorized access to data such as two-factor authentication, restricted user permissions to view and/or change data, and strong passwords that cannot be easily hacked. 
 - Provide physical protection of work stations, IT closets, and other vital hardware to prevent security breaches. 
 - Encourage best practices by users when accessing company networks, business/personal emails, installing software/programs, and using the internet in general. 
+
+
+
+
+[home](https://sramirez457.github.io/)
